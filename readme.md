@@ -1,3 +1,3 @@
-# Este é meu perfil no GitHub, Bem Vindo!
-### Me chamo Wesley Alves Santana, 24 anos e atualmente estou cursando Tec. em Informatica
-## 
+# Este é meu perfil no GitHub, Seja Bem Vindo!
+#### Me chamo Wesley Alves Santana, tenho 24 anos e estou cursando Tec. em Informatica
+####  
