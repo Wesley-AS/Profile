@@ -1,3 +1,5 @@
 #!/bin/bash
 echo "Script executado"
-echo "outra alterada"
+echo "outra alteração"
+echo "alteração"
+
